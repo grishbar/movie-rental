@@ -1,0 +1,19 @@
+.main-logo {
+  display: block;
+  margin: 0 auto;
+  width: 148px;
+  height: 28px;
+}
+
+.copyright {
+  position: absolute;
+  left: 50%;
+  bottom: 16px;
+  transform: translate3d(-50%, 0, 0);
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(255, 255, 255, .4);
+}
